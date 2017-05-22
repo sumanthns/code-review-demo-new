@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b5d57754_14cf2059",
+        "filename": "first.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011240
+      },
+      "writtenOn": "2017-05-22T08:10:32Z",
+      "side": 1,
+      "message": "This is incorrect",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 5
+      },
+      "revId": "10ee4cf1267ffa2bbfa8f1d51c00a2923268bc2e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "52084432_63ded798",
+        "filename": "second.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1011240
+      },
+      "writtenOn": "2017-05-22T08:10:32Z",
+      "side": 1,
+      "message": "This is to be made more detailed",
+      "range": {
+        "startLine": 1,
+        "startChar": 7,
+        "endLine": 1,
+        "endChar": 11
+      },
+      "revId": "10ee4cf1267ffa2bbfa8f1d51c00a2923268bc2e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
