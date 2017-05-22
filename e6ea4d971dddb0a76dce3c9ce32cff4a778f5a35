@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "06c5598d_3a68e47c",
+        "filename": "test.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1011240
+      },
+      "writtenOn": "2017-05-22T07:49:04Z",
+      "side": 1,
+      "message": "This is fine",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 2
+      },
+      "revId": "e6ea4d971dddb0a76dce3c9ce32cff4a778f5a35",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2ea9c1ea_ec55ee9f",
+        "filename": "test.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011240
+      },
+      "writtenOn": "2017-05-22T07:49:04Z",
+      "side": 1,
+      "message": "not so good",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 2
+      },
+      "revId": "e6ea4d971dddb0a76dce3c9ce32cff4a778f5a35",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
