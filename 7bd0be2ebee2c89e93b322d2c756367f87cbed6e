@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9c99d204_77bdb681",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1011249
+      },
+      "writtenOn": "2017-06-14T07:28:08Z",
+      "side": 1,
+      "message": "T2S2 file commit to gerrit practice",
+      "range": {
+        "startLine": 7,
+        "startChar": 19,
+        "endLine": 7,
+        "endChar": 20
+      },
+      "revId": "7bd0be2ebee2c89e93b322d2c756367f87cbed6e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
